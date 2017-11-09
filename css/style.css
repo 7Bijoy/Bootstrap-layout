@@ -1,0 +1,75 @@
+body{ text-align: center; font-size: 24px;
+}
+
+.disable_padding_right{
+padding-right: 0px;
+}
+
+header{background-color: #9FC5F8;
+	min-height: 100px;
+	margin-bottom: 10px;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+	margin-left: auto;}
+
+.brand,.global_nav,.tools{background-color: #CFE2FB;
+min-height: 70px;
+margin-top: 15px;
+margin-bottom: 15px;}
+
+.hero_content{
+background-color: #9FC5F8;
+	min-height: 200px;
+	margin-bottom: 10px;
+	
+}
+.hero_features{	background-color: #CFE2FB;
+	min-height: 160px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.hero_call_to_action{background-color: #CFE2FB;
+	min-height: 160px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.add{background-color: #6FA8DC;
+	min-height: 200px;
+}
+.body_content,.side_bar_feature{background-color: #9FC5F8;
+	min-height: 450px;
+	margin-bottom: 10px;
+}
+.side_bar_feature{25px 10px 15px 10px;}
+
+.article_listening{
+	background-color: #CFE2FB;
+	min-height: 400px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.article_feature{
+		background-color: #CFE2FB;
+	min-height: 400px;
+	margin-top: 25px;
+	margin-bottom: 25px;}
+.side_bar_feature{
+	background-color: #9FC5F8;
+	min-height: 450px;
+	margin-bottom: 10px;
+}
+.feature_content{width: 100%;
+	min-height: 400px;
+	background-color: #CFE2FB;
+
+}
+footer{background-color: #9FC5F8;
+	min-height: 80px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
